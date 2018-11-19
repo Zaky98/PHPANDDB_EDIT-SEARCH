@@ -65,7 +65,7 @@
 	</form>
     
     <br>
-    <button type="submit" class="btn btn-primary" a href = "tambah_data.php">  Tambah Data Mahasiswa </a></button>
+    <a href="tambah_data.php" class="btn btn-primary">Tambah data mahasiswa</a>
 
 </body>
 </html>
